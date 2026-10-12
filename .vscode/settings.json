@@ -1,0 +1,23 @@
+{
+    "files.exclude":{
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.jj": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+
+
+        "**/.gitignore":true,
+        "**/next-env.d.ts":true,
+        "**/eslint.config.mjs":true,
+        "**/tsconfig.json":true,
+        "**/README.md":true,
+        "**/next.config.ts":true,
+        "**/package.json":true,
+        "**/public":false,
+        "**/AGENTS.md":true,
+        "**/package-lock.json":true,
+        "**/node_modules":true
+    }
+}

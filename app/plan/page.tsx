@@ -10,7 +10,7 @@ function Panel ({children}:PanelProps) {
   return <section>{children}</section>
 }
 
-function MilestoneCardsProps {
+interface MilestoneCardsProps {
   title: string,
   description: string,
 
